@@ -22,3 +22,5 @@ printf(); it is a different function which we are using from stdio.h header file
 
 return 0; this will give a integer in return to the operating system and 0 means, If everything is fine then this will give 0 in return to the Operating System
 */
+
+// gcc -Wall -save-temps CBASICS1.c -o aryan
