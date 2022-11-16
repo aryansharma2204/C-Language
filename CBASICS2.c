@@ -1,3 +1,5 @@
+//BASIC STRUCTURE OF C PROGRAM
+
 #include <stdio.h> //preprocessor statement
 int main(int argc, char const *argv[]) //main function, execution of program starts from here
 {
