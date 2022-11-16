@@ -1,4 +1,8 @@
-// Now we will look at the building blocks of this code
+/*
+BASIC SYNTAX OF C PROGRAM
+Now we will look at the building blocks of this code
+*/
+
 #include <stdio.h>
 
 int main(int argc, char const *argv[]) //int- keyword
