@@ -3,7 +3,7 @@
 /*
 Guys think about a container, in that container you can fill till its capacity.
 Similarly, Variable is also a container where we will store data in memory.
-I will givs you one glass and one lunch box, what will you do, you will fill water in the glass and food in lunch box, 
+I will give you one glass and one lunch box, what will you do, you will fill water in the glass and food in lunch box, 
 Similarly variables in C has its data type.
 Data Type tells us what type of variable is going in this container
 Variable is a name that we give to storage area that we want to store something in this, like in int we will store integer, in char we will store a characte etc
